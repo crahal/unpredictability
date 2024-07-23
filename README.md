@@ -1,6 +1,4 @@
-# Unpredictability
-
-## :page_facing_up: # Python for Economic and Social Data Science  :page_facing_up:
+## :page_facing_up: Unpredictability :page_facing_up:
 
 ![coverage](https://img.shields.io/badge/ResponseLetter-yellow)
 [![Generic badge](https://img.shields.io/badge/Python-blue.svg)](https://shields.io/)
