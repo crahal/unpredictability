@@ -1,4 +1,4 @@
-## :page_facing_up: Unpredictability :page_facing_up:
+## :page_facing_up: On the Unknowable Limits to Prediction in Social Systems :page_facing_up:
 
 ![coverage](https://img.shields.io/badge/ResponseLetter-yellow)
 [![Generic badge](https://img.shields.io/badge/Python-blue.svg)](https://shields.io/)
@@ -8,10 +8,6 @@
 
 ---
 
-A figure to plot learning curves and life course prediction in response to Lundberg et et al. (2024) in PNAS:
+A figure to plot learning curves within a new framework in response the recent rise in the application of machine and deep learning methods for life course prediction.
 
-`
-Lundberg, I., Brown-Weinstock, R., Clampet-Lundquist, S., Pachman, S., Nelson, T. J., Yang, V., ... & Salganik, M. J. (2024). The origins of unpredictability in life outcome prediction tasks. Proceedings of the National Academy of Sciences, 121(24), e2322973121.
-`
-
-See `./src` for code which makes the figure, and `./output` for the figures themselves.
+See `./src` for code which makes the figure, and `./output` for the figure itself.
