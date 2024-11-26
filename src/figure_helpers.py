@@ -10,7 +10,7 @@ def rotate_point(x, y, angle_rad):
     cos, sin = np.cos(angle_rad), np.sin(angle_rad)
     return cos * x - sin * y, sin * x + cos * y
 
-def draw_brace(ax, span, position, text, text_pos, brace_scale=1.0, beta_scale=5.0, rotate=False, rotate_text=False):
+def draw_brace(ax, span, position, text, text_pos, brace_scale=1.0, beta_scale=5.0, rotate=False, rotate_text=False, fontsize=11):
     '''
         all positions and sizes are in axes units
         span: size of the curl
@@ -41,5 +41,5 @@ def draw_brace(ax, span, position, text, text_pos, brace_scale=1.0, beta_scale=5
     y += position[1]
     ax.autoscale(False)
     ax.plot(x, y, color='black', lw=1, clip_on=False)
-    ax.text(text_pos[0], text_pos[1], text, ha='center', fontsize=11,
+    ax.text(text_pos[0], text_pos[1], text, ha='center', fontsize=fontsize,
             va='bottom', rotation=90 if rotate_text else 0)
