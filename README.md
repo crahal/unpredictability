@@ -8,6 +8,6 @@
 
 ---
 
-A figure to plot learning curves within a new framework in response the recent rise in the application of machine and deep learning methods for life course prediction.
+A place to hold matplotlib code which creates learning curves within a new framework in response the recent rise in the application of machine and deep learning methods.
 
 See `./src` for code which makes the figure, and `./output` for the figure itself.
