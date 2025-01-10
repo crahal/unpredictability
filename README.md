@@ -44,9 +44,8 @@ If you would be interested in citing this work, please use the following BibTeX 
 
 or copy and paste this Chicago style citation:
 
-```
-Yan, Jiani, and Charles Rahal. "On the Unknowable Limits to Prediction." arXiv preprint arXiv:2411.19223 (2024).
-```
+>Yan, Jiani, and Charles Rahal. "On the Unknowable Limits to Prediction." arXiv preprint arXiv:2411.19223 (2024).
+
 
 #### Data Availability Statement
 
