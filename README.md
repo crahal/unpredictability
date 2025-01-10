@@ -18,9 +18,8 @@ This is a place to hold some simple matplotlib code which creates hypothetical l
 
 A very quick standfirst for this work is:
 
-```
-We critique the classic dichotomization of prediction error into reducible and irreducible components, noting that certain types of error can be eliminated at differential speeds. We propose an improved analytical framework that better distinguishes epistemic from aleatoric uncertainty, emphasizing that predictability depends on information sets. We also caution against premature claims of unpredictability.
-```
+> We critique the classic dichotomization of prediction error into reducible and irreducible components, noting that certain types of error can be eliminated at differential speeds. We propose an improved analytical framework that better distinguishes epistemic from aleatoric uncertainty, emphasizing that predictability depends on information sets. We also caution against premature claims of unpredictability.
+
 
 #### Running the code
 
