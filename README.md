@@ -16,7 +16,7 @@ This is a place to hold some simple matplotlib code which creates hypothetical l
   <a href="https://arxiv.org/abs/2411.19223">arxiv.org/abs/2411.19223</a>
 </div>
 
-A very quick standfirst for that work is:
+A very quick standfirst for this work is:
 
 ```
 We critique the classic dichotomization of prediction error into reducible and irreducible components, noting that certain types of error can be eliminated at differential speeds. We propose an improved analytical framework that better distinguishes epistemic from aleatoric uncertainty, emphasizing that predictability depends on information sets. We also caution against premature claims of unpredictability.
