@@ -1,10 +1,10 @@
 ## :page_facing_up: On the Unknowable Limits to Prediction :page_facing_up:
 
 ![coverage](https://img.shields.io/badge/ResponseLetter-yellow)
-[![Generic badge](https://img.shields.io/badge/Python-blue.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/GNU3.0-purple.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Maintained-brightgreen.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/BuildPassing-orange.svg)](https://shields.io/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14674893.svg)](https://doi.org/10.5281/zenodo.14674893)
 
 ---
 
