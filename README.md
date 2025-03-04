@@ -33,18 +33,16 @@ If you would be interested in citing this work, please use the following BibTeX 
 @misc{yan2024unknowablelimitsprediction,
       title={On the Unknowable Limits to Prediction}, 
       author={Jiani Yan and Charles Rahal},
-      year={2024},
-      eprint={2411.19223},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2411.19223}, 
+      year={2025},
+      journal={Nat Comput Sci},
+      url={https://doi.org/10.1038/s43588-025-00776-y), 
 }
 ```
 
 
 or copy and paste this Chicago style citation:
 
->Yan, Jiani, and Charles Rahal. "On the Unknowable Limits to Prediction." arXiv preprint arXiv:2411.19223 (2024).
+>Yan, Jiani, and Charles Rahal. "On the Unknowable Limits to Prediction.", Nat Comput Sci (2025). https://doi.org/10.1038/s43588-025-00776-y.
 
 
 #### Data Availability Statement
