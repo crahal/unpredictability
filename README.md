@@ -10,7 +10,7 @@
 
 #### Introduction
 
-This is a place to hold some simple matplotlib code which creates hypothetical learning curves. These learning curves live within a new framework which [Jiani Yan](https://github.com/vallerrr) and I have created which is in response to the recent rise in the application of machine and deep learning methods. Our preprint is entitled `On the Unknowable Limits to Prediction', and can be found on arXiV here:
+This is a place to hold some simple matplotlib code which creates hypothetical learning curves. These learning curves live within a new framework which [Jiani Yan](https://github.com/vallerrr) and I have created which is in response to the recent rise in the application of machine and deep learning methods. Our paper is entitled `On the Unknowable Limits to Prediction', is out now at [Nature Computational Science](https://www.nature.com/articles/s43588-025-00776-y), and can be found on arXiV here:
 
 <div align="center">
   <a href="https://arxiv.org/abs/2411.19223">arxiv.org/abs/2411.19223</a>
